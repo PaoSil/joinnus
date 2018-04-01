@@ -18,3 +18,9 @@ En el proceso de desarrollo se va analizar cuales serian las metodologias que se
 #### Idea de Negocio:
 
 Joinnus es una multiplataforma online que ayuda a la compra de entradas para eventos que se realizan en los estadios, teatros municipales, coliseos, auditorios, etc.
+
+#### Business Model Canvas:
+
+##### MODEL CANVAS:
+
+![Image-3](https://github.com/PaoSil/joinnus/blob/master/assets/img/canvas.png)
