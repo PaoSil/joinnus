@@ -21,6 +21,130 @@ Joinnus es una multiplataforma online que ayuda a la compra de entradas para eve
 
 #### Business Model Canvas:
 
-##### MODEL CANVAS:
+##### Model Canvas:
 
 ![Image-3](https://github.com/PaoSil/joinnus/blob/master/assets/img/canvas.png)
+
+##### Stakeholders:
+
+**Internos:**
+
+| Stakeholders | Tipo | Rol en la empresa |
+|:------------:|:----:|:------------------|
+| CEO | Interno | Consejero delegado |
+| COO | Interno | Director General |
+| CMO | Interno | Director de Marketing |
+| CFO | Interno | Director Financiero |
+| CIO | Interno | Director de Tecnologias de Sistemas |
+| CTO | Interno | Director de Tecnologia de Sistemas |
+| CCO | Interno | Director de Comunicacion |
+
+**Externos:**
+
+
+### Benchmarking:
+
+#### Analisis Competitivo:
+
+Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades con las de nuestra propia solucion.
+
+Para esto utilizamos la tecnica **Thinking Aloud Testing**
+
+Nuestra participante realizo la prueba en la interfaz de la aplicacion **Joinnus**
+
+#### Analisis Comparativo:
+
+
+| Aplicación | Reservar entradas | Comprar entradas Online | Adaptable a dispositivos moviles | Elegir asientos | Registro de usuario | varios metodos de pago | Control de acceso seguro | Evita largas colas | Adaptarse a cualquier recinto | Configuracion personalizada |
+|:----------:|:-----------------:|:-----------------------:|:--------------------------------:|:---------------:|
+|**Ticketmaster**|**SI**|**SI**|**SI**|NO|**SI**|**SI**|**SI**|**SI**|NO|NO|
+|**Ticketea**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|
+|**Atrapalo.pe**|**SI**|**SI**|**SI**|NO|**SI**|**SI**|**SI**|**SI**|NO|NO|
+
+### Plan Research:
+
+1. **Objetivo:**
+
+   * Planear: la investigacion cuantitativa y cualitativa.
+   * Reclutar: personas que cumplan el perfil ideal para validar supuestos.
+   * Conducir: la investigacion de la problematica y expectativas de los usuarios.
+   * Analizar: supuestos y validaciones.
+   * Reportar: conclusiones y feedbacks.
+
+
+2. **Metodologia:**
+
+   * Revision de Fuentes Externas:
+     - Recopilacion y conclusiones de investigacion de servicios ya existentes.
+     - Informacion de los servicios de la competencia.
+   * Entrevistas.
+     - Lista de perfiles a quienes evaluar.
+     - Guia de entrevistas.
+     - Modelo de entrevistas.
+
+
+3. **Actividades**
+
+4. **Estrategia**
+
+   * Entrevistas via telefonica.
+   * Recabar informacion ya existentes de investigacion de usabilidad, perfiles, negocio, etc.
+   * Entrevistas se realizara de noche y los fin de semana.
+
+### Research Cualitativo:
+
+#### Entrevistas:
+
+Las entrevistas a los stakeholders se hizo via telefonica.
+
+**Target:**
+
+**Entrevista:**
+
+| Entrevista | Link |
+|:----------:|:----:|
+| Stakeholders | <> |
+
+**Conclusiones:**
+
+
+
+### Research Cuantitativo:
+
+#### Encuesta Online:
+
+| Encuesta Online | Link |
+|:---------------:|:----:|
+| Stakeholders | <>|
+
+#### Datos Estadisticos:
+
+![]()
+![]()
+![]()
+
+### Affinity Map:
+
+![]()
+
+**Fuente:**
+
+### User Persona:
+
+![]()
+
+**Fuente:**
+
+### Arquitectura de Informacion:
+
+#### Mapa del sitio:
+
+![]()
+
+### Prototyping:
+
+#### Manual:
+
+**1er prototipo**
+
+![]()
