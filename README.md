@@ -1,5 +1,5 @@
 # JOINNUS
-![Imagen-1](LOGO)
+![Imagen-1](https://github.com/PaoSil/joinnus/blob/master/assets/img/logo-joinnus.png)
 
 ## Contexto:
 
@@ -11,10 +11,10 @@ Joinnus es una starup peruana que su objetivo principal es reinventar la experie
 
 En el proceso de desarrollo se va analizar cuales serian las metodologias que se emplearian para poder llevar a cabo con exito el producto que queremos desarrollar.
 
-![Imagen-2](PROCESO DE DESARROLLO)
+![Imagen-2](https://github.com/PaoSil/joinnus/blob/master/assets/img/proceso%20de%20desarrollo.png)
 
 ### Modelo de Negocio:
 
 #### Idea de Negocio:
 
-Joinnus es una multiplataforma online que ayuda a la compra de entradas para eventos que se realizan en los estadios, teatros municipales, coliseos, aucitorios, etc.
+Joinnus es una multiplataforma online que ayuda a la compra de entradas para eventos que se realizan en los estadios, teatros municipales, coliseos, auditorios, etc.
