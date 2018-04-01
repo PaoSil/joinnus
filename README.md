@@ -56,7 +56,7 @@ Nuestra participante realizo la prueba en la interfaz de la aplicacion **Joinnus
 
 
 | Aplicación | Reservar entradas | Comprar entradas Online | Adaptable a dispositivos moviles | Elegir asientos | Registro de usuario | varios metodos de pago | Control de acceso seguro | Evita largas colas | Adaptarse a cualquier recinto | Configuracion personalizada |
-|:----------:|:-----------------:|:-----------------------:|:--------------------------------:|:---------------:|
+|:----------:|:-----------------:|:-----------------------:|:--------------------------------:|:---------------:|:-------------------:|:----------------------:|:------------------------:|:------------------:|:--------------------------------:|:---------------------------:|
 |**Ticketmaster**|**SI**|**SI**|**SI**|NO|**SI**|**SI**|**SI**|**SI**|NO|NO|
 |**Ticketea**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|
 |**Atrapalo.pe**|**SI**|**SI**|**SI**|NO|**SI**|**SI**|**SI**|**SI**|NO|NO|
