@@ -135,14 +135,14 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 #### Datos Estadisticos:
 
-![Imagen-4]()
-![Imagen-5]()
-![Imagen-6]()
+![Imagen-4](https://github.com/PaoSil/joinnus/blob/master/assets/img/stadistics-1.png)
+![Imagen-5](https://github.com/PaoSil/joinnus/blob/master/assets/img/stadistics-2.png)
+![Imagen-6](https://github.com/PaoSil/joinnus/blob/master/assets/img/stadistics-3.png)
 
 
 ### User Persona:
 
-![]()
+![Imagen-7]()
 
 **Fuente:**
 
@@ -150,7 +150,7 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 #### Mapa del sitio:
 
-![]()
+![Imagen-8]()
 
 ### Prototyping:
 
@@ -158,4 +158,4 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 **1er prototipo**
 
-![]()
+![Imagen-9]()
