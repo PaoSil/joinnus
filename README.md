@@ -23,7 +23,7 @@ Joinnus es una multiplataforma online que ayuda a la compra de entradas para eve
 
 ##### Model Canvas:
 
-![Image-3](https://github.com/PaoSil/joinnus/blob/master/assets/img/canvas.png)
+![Imagen-3](https://github.com/PaoSil/joinnus/blob/master/assets/img/canvas.png)
 
 ##### Stakeholders:
 
@@ -101,12 +101,28 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 **Entrevista:**
 
+**1. Preguntas Presenciales**
+
+     Medio: Via telefonica
+
+| Entrevista | Link |
+|:----------:|:----:|
+| Preguntas | <https://docs.google.com/spreadsheets/d/1BsLsAH1Oi6d5STKBGgf0clHK4ngvDYBPtoDQUbnv7ZI/edit#gid=0> |
+
+**2. Respuestas de Stakeholders**
+
 | Entrevista | Link |
 |:----------:|:----:|
 | Stakeholders | <> |
 
+
 **Conclusiones:**
 
+*
+*
+*
+*
+*
 
 
 ### Research Cuantitativo:
@@ -115,19 +131,14 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 | Encuesta Online | Link |
 |:---------------:|:----:|
-| Stakeholders | <>|
+| Stakeholders | <https://goo.gl/forms/llbuAa6sIEbtHqA62>|
 
 #### Datos Estadisticos:
 
-![]()
-![]()
-![]()
+![Imagen-4]()
+![Imagen-5]()
+![Imagen-6]()
 
-### Affinity Map:
-
-![]()
-
-**Fuente:**
 
 ### User Persona:
 
