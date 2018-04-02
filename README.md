@@ -158,5 +158,5 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 **1er prototipo en alta fidelidad**
 
-| Stakeholders | <https://marvelapp.com/3bj97eg>|
+| Prototipo | <https://marvelapp.com/3bj97eg>|
 
