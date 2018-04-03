@@ -158,11 +158,11 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 ![Imagen-7](https://github.com/PaoSil/joinnus/blob/master/assets/img/user-persona.png)
 
 
-### Arquitectura de Informacion:
+### Identificacion de flujo critico:
 
-#### Mapa del sitio:
+#### Flujo de pago de Entradas:
 
-![Imagen-8]()
+![Imagen-8](https://github.com/PaoSil/joinnus/blob/master/assets/img/flujo-de-compra.png)
 
 **Fuente:**  <https://www.youtube.com/watch?v=WsXWlKwdvqg>
 
