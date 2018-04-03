@@ -113,16 +113,18 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 | Entrevista | Link |
 |:----------:|:----:|
-| Stakeholders | <> |
+| Stakeholders | <https://docs.google.com/spreadsheets/d/1tfxpAT2O_k_BNAnwupobcfeb4_QrLBNGEPt3MBkBauQ/edit#gid=326027823> |
 
 
 **Conclusiones:**
 
-*
-*
-*
-*
-*
+* Los eventos a los que mas prefieren ir es al teatro o a conciertos
+* Sus compras de entradas para eventos lo hacen en Teleticket, algunos lo hacen en Tu Parada o Tu Entrada.
+* Prefieren hacer su compra presencial.
+* Si realizan la compra onlinie es porque se les ofrece algun descuento cuando el pago es con alguna tarjeta de credito.
+* Cuando hacen la compra presencial, la persona encargada les muestra en su pantalla la ubicacion de sus asientos en el caso de teatros y zonas en el caso de conciertos.
+* No emplean mucho la compra mediante una plataforma onlina o app movil ya que no les genera mucha confianza, a excepcion de cuando hay descuentos con tarjetas.
+* Les gustaria que se le brinde la informacion necesaria del evento, el lugar, fecha, hora, que asientos estan disponibles, ya que la mayoria les dice que las entradas ya se van agotar, etc.
 
 
 ### Research Cuantitativo:
@@ -138,6 +140,17 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 ![Imagen-4](https://github.com/PaoSil/joinnus/blob/master/assets/img/stadistics-1.png)
 ![Imagen-5](https://github.com/PaoSil/joinnus/blob/master/assets/img/stadistics-2.png)
 ![Imagen-6](https://github.com/PaoSil/joinnus/blob/master/assets/img/stadistics-3.png)
+
+**Conclusiones:**
+
+* La mayoria prefiere ir a eventos como una obra de teatro o concierto.
+* Durante los ultimos tres meses solo han ido dos veces a eventos (teatro o conciertos, etc.).
+* Sus entradas lo realizan de manera online y presencial.
+* Las paginas de su preferencia para hacer compras de entradas de algun evento son Teleticket, Tu Entrada y Joinnus.
+* Al momento de hacer sus pagos lo hacen con tarjeta de credito y/o debito.
+* Durante el proceso de compra online se les brinda: reservar asiento, consultar las ventas, registrar o iniciar sesion antes de comprar.
+* Se les confirma mediante un correo electronico que han hecho una compra exitosa.
+* La mayoria hace sus compras mediante una plataforma online o app movil.
 
 
 ### User Persona:
@@ -159,4 +172,3 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 **1er prototipo en alta fidelidad**
 
 | Prototipo | <https://marvelapp.com/3bj97eg>|
-
