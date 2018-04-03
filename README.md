@@ -62,6 +62,9 @@ Las funcionalidades que debería tener un sistema de **venta de entradas**
 * **Control en el acceso**. Introducir herramientas para controlar el acceso garantiza la **seguridad** del evento al poder controlar el aforo del recinto, así como la valoración positiva en la experiencia de los asistentes, ya que **evita largas colas** en la entrada del evento.
 * **Configuración personalizada**. La mejor plataforma de venta de entradas para teatros debe poder **adaptarse a cualquier recinto** y, por lo tanto, debe permitir una **configuración personalizada**.
 
+
+**Fuente:** <https://www.hiberus.com/crecemos-contigo/cual-es-la-mejor-plataforma-de-venta-de-entradas-para-teatros/>
+
 #### Análisis Comparativo:
 
 
