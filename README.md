@@ -155,9 +155,8 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 ### User Persona:
 
-![Imagen-7]()
+![Imagen-7](https://github.com/PaoSil/joinnus/blob/master/assets/img/user-persona.png)
 
-**Fuente:**
 
 ### Arquitectura de Informacion:
 
@@ -171,4 +170,6 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 **1er prototipo en alta fidelidad**
 
-| Prototipo | <https://marvelapp.com/3bj97eg>|
+| Programa | Link |
+|:---------------:|:----:|
+| Marvel | <https://marvelapp.com/3bj97eg>|
