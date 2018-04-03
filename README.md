@@ -163,6 +163,7 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 #### Flujo de pago de Entradas:
 
 ![Imagen-8](https://github.com/PaoSil/joinnus/blob/master/assets/img/flujo-de-compra.png)
+![Imagen-9](https://github.com/PaoSil/joinnus/blob/master/assets/img/dia-evento.png)
 
 **Fuente:**  <https://www.youtube.com/watch?v=WsXWlKwdvqg>
 
