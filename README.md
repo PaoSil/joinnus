@@ -3,13 +3,13 @@
 
 ## Contexto:
 
-Joinnus es una starup peruana que su objetivo principal es reinventar la experiencia de encontrar algo que hacer en la ciudad. A través de su aplicación multiplataforma, los usuarios pueden descubrir nuevos eventos, compartirlos con sus amigos en redes y comprar entradas al instante.
+Joinnus es una startup peruana que su objetivo principal es reinventar la experiencia de encontrar algo que hacer en la ciudad. A través de su aplicación multiplataforma, los usuarios pueden descubrir nuevos eventos, compartirlos con sus amigos en redes y comprar entradas al instante.
 
 #### Proyecto realizado en [Laboratoria](http://www.laboratoria.la/)
 
 ### Proceso de desarrollo:
 
-En el proceso de desarrollo se va analizar cuales serian las metodologias que se emplearian para poder llevar a cabo con exito el producto que queremos desarrollar.
+En el proceso de desarrollo se va analizar cuáles serían las metodologías que se emplearían para poder llevar a cabo con éxito el producto que queremos desarrollar.
 
 ![Imagen-2](https://github.com/PaoSil/joinnus/blob/master/assets/img/proceso%20de%20desarrollo.png)
 
@@ -35,51 +35,61 @@ Joinnus es una multiplataforma online que ayuda a la compra de entradas para eve
 | COO | Interno | Director General |
 | CMO | Interno | Director de Marketing |
 | CFO | Interno | Director Financiero |
-| CIO | Interno | Director de Tecnologias de Sistemas |
-| CTO | Interno | Director de Tecnologia de Sistemas |
-| CCO | Interno | Director de Comunicacion |
+| CIO | Interno | Director de Tecnologías de Sistemas |
+| CTO | Interno | Director de Tecnología de Sistemas |
+| CCO | Interno | Director de Comunicación |
 
 **Externos:**
+
+| Stakeholders | Tipo |
+|:-------------|:----:|
+| Millenials (19-35 años) | Externo |
+| A quienes les gusta ir a teatro | Externo |
+| A quienes les gusta ir a conciertos | Externo |
+| A quines les gusta ir a eventos deportivos | Externo |
 
 
 ### Benchmarking:
 
-#### Analisis Competitivo:
+#### Análisis Competitivo:
 
-Identificamos a nuestros competidores y evaluamos sus estrategias para determinar sus fortalezas y debilidades con las de nuestra propia solucion.
+Las funcionalidades que debería tener un sistema de **venta de entradas**
 
-Para esto utilizamos la tecnica **Thinking Aloud Testing**
+* **Adaptable a cualquier dispositivo**. En el caso de los teatros, la plataforma nos tienes que permitir **reservar y comprar entradas desde cualquier dispositivo** de una manera rápida y sencilla.
+* **Selección de butacas**. Si queremos una selección de butacas óptima, los asistentes tiene que poder **elegir sus asientos**, así como tener una vista completa de la sala.
+* **Opción de registro**. Podemos conocer más sobre nuestros clientes y sus intereses si introducimos un **formulario de registro de usuarios**
+* **Formas de pago**. Debemos ofrecer **varios métodos de pago** diferentes como tarjetas de débito o crédito, paypal, etc.
+* **Control en el acceso**. Introducir herramientas para controlar el acceso garantiza la **seguridad** del evento al poder controlar el aforo del recinto, así como la valoración positiva en la experiencia de los asistentes, ya que **evita largas colas** en la entrada del evento.
+* **Configuración personalizada**. La mejor plataforma de venta de entradas para teatros debe poder **adaptarse a cualquier recinto** y, por lo tanto, debe permitir una **configuración personalizada**.
 
-Nuestra participante realizo la prueba en la interfaz de la aplicacion **Joinnus**
-
-#### Analisis Comparativo:
+#### Análisis Comparativo:
 
 
-| Aplicación | Reservar entradas | Comprar entradas Online | Adaptable a dispositivos moviles | Elegir asientos | Registro de usuario | varios metodos de pago | Control de acceso seguro | Evita largas colas | Adaptarse a cualquier recinto | Configuracion personalizada |
+| Aplicación | Reservar entradas | Comprar entradas Online | Adaptable a cualquier dispositivos | Elegir asientos | Registro de usuario | varios métodos de pago | Control de acceso seguro | Evita largas colas | Adaptarse a cualquier recinto | Configuración personalizada |
 |:----------:|:-----------------:|:-----------------------:|:--------------------------------:|:---------------:|:-------------------:|:----------------------:|:------------------------:|:------------------:|:--------------------------------:|:---------------------------:|
-|**Ticketmaster**|**SI**|**SI**|**SI**|NO|**SI**|**SI**|**SI**|**SI**|NO|NO|
-|**Ticketea**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|**SI**|
-|**Atrapalo.pe**|**SI**|**SI**|**SI**|NO|**SI**|**SI**|**SI**|**SI**|NO|NO|
+|**Ticketmaster**|**SÍ**|**SÍ**|**SÍ**|NO|**SÍ**|**SÍ**|**SÍ**|**SÍ**|NO|NO|
+|**Ticketea**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|**SÍ**|
+|**Atrapalo.pe**|**SÍ**|**SÍ**|**SÍ**|NO|**SÍ**|**SÍ**|**SÍ**|**SÍ**|NO|NO|
 
 ### Plan Research:
 
 1. **Objetivo:**
 
-   * Planear: la investigacion cuantitativa y cualitativa.
+   * Planear: la investigación cuantitativa y cualitativa.
    * Reclutar: personas que cumplan el perfil ideal para validar supuestos.
-   * Conducir: la investigacion de la problematica y expectativas de los usuarios.
+   * Conducir: la investigación de la problemática y expectativas de los usuarios.
    * Analizar: supuestos y validaciones.
    * Reportar: conclusiones y feedbacks.
 
 
-2. **Metodologia:**
+2. **Metodología:**
 
-   * Revision de Fuentes Externas:
-     - Recopilacion y conclusiones de investigacion de servicios ya existentes.
-     - Informacion de los servicios de la competencia.
+   * Revisión de Fuentes Externas:
+     - Recopilación y conclusiones de investigación de servicios ya existentes.
+     - Información de los servicios de la competencia.
    * Entrevistas.
      - Lista de perfiles a quienes evaluar.
-     - Guia de entrevistas.
+     - Guía de entrevistas.
      - Modelo de entrevistas.
 
 
@@ -87,15 +97,15 @@ Nuestra participante realizo la prueba en la interfaz de la aplicacion **Joinnus
 
 4. **Estrategia**
 
-   * Entrevistas via telefonica.
-   * Recabar informacion ya existentes de investigacion de usabilidad, perfiles, negocio, etc.
-   * Entrevistas se realizara de noche y los fin de semana.
+   * Entrevistas vía telefónica.
+   * Recabar información ya existentes de investigación de usabilidad, perfiles, negocio, etc.
+   * Entrevistas se realizará de noche y los fines de semana.
 
 ### Research Cualitativo:
 
 #### Entrevistas:
 
-Las entrevistas a los stakeholders se hizo via telefonica.
+Las entrevistas a los stakeholders se hizo vía telefónica.
 
 **Target:**
 
@@ -103,7 +113,7 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 **1. Preguntas Presenciales**
 
-     Medio: Via telefonica
+     Medio: Vía telefónica
 
 | Entrevista | Link |
 |:----------:|:----:|
@@ -121,10 +131,10 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 * Los eventos a los que mas prefieren ir es al teatro o a conciertos
 * Sus compras de entradas para eventos lo hacen en Teleticket, algunos lo hacen en Tu Parada o Tu Entrada.
 * Prefieren hacer su compra presencial.
-* Si realizan la compra onlinie es porque se les ofrece algun descuento cuando el pago es con alguna tarjeta de credito.
-* Cuando hacen la compra presencial, la persona encargada les muestra en su pantalla la ubicacion de sus asientos en el caso de teatros y zonas en el caso de conciertos.
-* No emplean mucho la compra mediante una plataforma onlina o app movil ya que no les genera mucha confianza, a excepcion de cuando hay descuentos con tarjetas.
-* Les gustaria que se le brinde la informacion necesaria del evento, el lugar, fecha, hora, que asientos estan disponibles, ya que la mayoria les dice que las entradas ya se van agotar, etc.
+* Si realizan la compra online es porque se les ofrece algún descuento cuándo el pago es con alguna tarjeta de crédito.
+* Cuándo hacen la compra presencial, la persona encargada les muestra en su pantalla la ubicación de sus asientos en el caso de teatros y zonas en el caso de conciertos.
+* No emplean mucho la compra mediante una plataforma online o app móvil ya que no les genera mucha confianza, a excepción de cuándo hay descuentos con tarjetas.
+* Les gustaría que se le brinde la información necesaria del evento, el lugar, fecha, hora, que asientos estan disponibles, ya que la mayoría les dice que las entradas ya se van agotar, etc.
 
 
 ### Research Cuantitativo:
@@ -135,7 +145,7 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 |:---------------:|:----:|
 | Stakeholders | <https://goo.gl/forms/llbuAa6sIEbtHqA62>|
 
-#### Datos Estadisticos:
+#### Datos Estadísticos:
 
 ![Imagen-4](https://github.com/PaoSil/joinnus/blob/master/assets/img/stadistics-1.png)
 ![Imagen-5](https://github.com/PaoSil/joinnus/blob/master/assets/img/stadistics-2.png)
@@ -143,14 +153,14 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 **Conclusiones:**
 
-* La mayoria prefiere ir a eventos como una obra de teatro o concierto.
-* Durante los ultimos tres meses solo han ido dos veces a eventos (teatro o conciertos, etc.).
+* La mayoría prefiere ir a eventos como una obra de teatro o concierto.
+* Durante los últimos tres meses sólo han ido dos veces a eventos (teatro o conciertos, etc.).
 * Sus entradas lo realizan de manera online y presencial.
-* Las paginas de su preferencia para hacer compras de entradas de algun evento son Teleticket, Tu Entrada y Joinnus.
-* Al momento de hacer sus pagos lo hacen con tarjeta de credito y/o debito.
+* Las páginas de su preferencia para hacer compras de entradas de algun evento son Teleticket, Tu Entrada y Joinnus.
+* Al momento de hacer sus pagos lo hacen con tarjeta de crédito y/o débito.
 * Durante el proceso de compra online se les brinda: reservar asiento, consultar las ventas, registrar o iniciar sesion antes de comprar.
-* Se les confirma mediante un correo electronico que han hecho una compra exitosa.
-* La mayoria hace sus compras mediante una plataforma online o app movil.
+* Se les confirma mediante un correo electrónico que han hecho una compra exitosa.
+* La mayoría hace sus compras mediante una plataforma online o app móvil.
 
 
 ### User Persona:
@@ -158,7 +168,7 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 ![Imagen-7](https://github.com/PaoSil/joinnus/blob/master/assets/img/user-persona-1.png)
 
 
-### Identificacion de flujo critico:
+### Identificación de flujo crítico:
 
 #### Flujo de pago de Entradas:
 
