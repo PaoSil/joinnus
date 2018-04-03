@@ -155,7 +155,7 @@ Las entrevistas a los stakeholders se hizo via telefonica.
 
 ### User Persona:
 
-![Imagen-7](https://github.com/PaoSil/joinnus/blob/master/assets/img/user-persona.png)
+![Imagen-7](https://github.com/PaoSil/joinnus/blob/master/assets/img/user-persona-1.png)
 
 
 ### Identificacion de flujo critico:
