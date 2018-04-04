@@ -186,6 +186,7 @@ Las entrevistas a los stakeholders se hizo vía telefónica.
 
 **1er prototipo en alta fidelidad**
 
-| Programa | Link |
+| Prototipo | Link |
 |:---------------:|:----:|
-| Marvel | <https://marvelapp.com/3bj97eg>|
+| 1er Prototipo | <https://marvelapp.com/3bj97eg>|
+| 2do Prototipo | <https://marvelapp.com/3bj97eg>|
