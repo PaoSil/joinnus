@@ -189,4 +189,4 @@ Las entrevistas a los stakeholders se hizo vía telefónica.
 | Prototipo | Link |
 |:---------------:|:----:|
 | 1er Prototipo | <https://marvelapp.com/3bj97eg>|
-| 2do Prototipo | <https://marvelapp.com/3bj97eg>|
+| 2do Prototipo | <https://marvelapp.com/15566jh6>|
