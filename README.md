@@ -4,6 +4,10 @@ Joinnus es una multiplataforma digital, que busca mejorar la experiencia de usua
 
 ![Plataforma](assets/img/joinnus.png)
 
+## Desarrollado para:
+
+[Joinnus](https://www.joinnus.com/PE)
+
 ## Contexto:
 
 Joinnus es una startup peruana que su objetivo principal es reinventar la experiencia de encontrar algo que hacer en la ciudad. A través de su aplicación multiplataforma, los usuarios pueden descubrir nuevos eventos, compartirlos con sus amigos en redes y comprar entradas al instante.
