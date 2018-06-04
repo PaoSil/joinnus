@@ -2,7 +2,7 @@
 
 Joinnus es una multiplataforma digital, que busca mejorar la experiencia de usuario al momento de comprar entradas para eventos que se realizan en estadios, teatros, auditorios, etc.
 
-![Plataforma](assets/img/joinnus.png)
+![joinnus](https://user-images.githubusercontent.com/32304503/40931025-16d2e48c-67ef-11e8-8c72-c966639bb27b.png)
 
 ## Desarrollado para:
 
