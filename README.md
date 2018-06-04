@@ -6,7 +6,7 @@ Joinnus es una multiplataforma digital, que busca mejorar la experiencia de usua
 
 ## Desarrollado para:
 
-[Joinnus](https://www.joinnus.com/PE)
+[Laboratoria](http://www.laboratoria.la/)
 
 ## Contexto:
 
@@ -127,13 +127,13 @@ Las entrevistas a los stakeholders se hizo vía telefónica.
 
 | Entrevista | Link |
 |:----------:|:----:|
-| Preguntas | <https://docs.google.com/spreadsheets/d/1BsLsAH1Oi6d5STKBGgf0clHK4ngvDYBPtoDQUbnv7ZI/edit#gid=0> |
+| Preguntas | <https://bit.ly/2J8wSpI> |
 
 **2. Respuestas de Stakeholders**
 
 | Entrevista | Link |
 |:----------:|:----:|
-| Stakeholders | <https://docs.google.com/spreadsheets/d/1tfxpAT2O_k_BNAnwupobcfeb4_QrLBNGEPt3MBkBauQ/edit#gid=326027823> |
+| Stakeholders | <https://bit.ly/2HksX3n> |
 
 
 **Conclusiones:**
